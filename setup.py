@@ -21,10 +21,10 @@ setup(
         'chopper.html',
     ],
     install_requires=[
-        'cssselect==0.9.1',
-        'tinycss==0.3',
-        'lxml==3.3.5',
-        'six==1.11.0'
+        'cssselect>=0.9.1',
+        'tinycss>=0.3',
+        'lxml>=4.2.4',
+        'six>=1.11.0'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
